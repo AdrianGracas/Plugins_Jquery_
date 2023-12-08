@@ -43,7 +43,7 @@ $(document).ready(function(){
             },
         },
         messages: {
-            nome: 'Por favor, insira o seu nome'
+            name: 'Por favor, insira o seu nome'
         },
         submitHandler: function(form) {
             console.log(form)
